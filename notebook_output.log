@@ -1,0 +1,8 @@
+2025-01-23 23:56:54,567 - INFO - This is an info message displayed in the notebook.
+2025-01-23 23:56:54,573 - WARNING - This is a warning message shown in the notebook and saved to file.
+2025-01-23 23:56:54,577 - ERROR - This error message will be logged both in the notebook and in the log file.
+2025-01-24 00:12:37,608 - INFO - This is an info message displayed in the notebook.
+2025-01-24 00:12:37,611 - WARNING - This is a warning message shown in the notebook and saved to file.
+2025-01-24 00:12:37,613 - ERROR - This error message will be logged both in the notebook and in the log file.
+2025-01-24 00:12:46,192 - INFO - logging...
+2025-01-24 00:13:00,347 - INFO - logging...
