@@ -6,5 +6,6 @@ if __name__ == '__main__':
     log.info(f'Executing {PROGRAM} ...')
     
     p = Filter()
+    p.process_files()
     
     log.info(f'Execution complete.')

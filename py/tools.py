@@ -1,5 +1,11 @@
 from cmd import Cmd
 import os
+from pathlib import Path
+
+def ext(self):
+    return self.suffix[1:] if self.suffix else ''
+
+Path.ext = ext
 
 def columnize(s:list):
     Cmd().columnize(s)

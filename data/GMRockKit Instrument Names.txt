@@ -1,0 +1,19 @@
+Kick
+Stick
+Snare
+Hand Clap
+Snare Rimshot
+Floor Tom
+Hat Closed
+Tom 2
+Hat Pedal
+Tom 1
+Hat Open
+Cowbell
+Ride
+Crash
+Ride 2
+Splash
+Hat Semi-Open
+Bell
+

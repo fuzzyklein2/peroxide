@@ -1,10 +1,11 @@
-from pprint import pprint as pp
-import sys
+from .startup import *
+from .filter import Filter
 
-from .arguments import Arguments, PROGRAM
-
-ARGS = Arguments()
-
-pp(ARGS)
-
-print(f'{PROGRAM=}')
+if __name__ == '__main__':
+    print(PROGRAM)
+    log.info(f'Executing {PROGRAM} ...')
+    
+    p = Filter()
+    p.process_files()
+    
+    log.info(f'Execution complete.')

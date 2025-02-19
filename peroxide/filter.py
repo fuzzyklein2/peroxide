@@ -1,7 +1,10 @@
 from pathlib import Path
 
+from .tools import *
 from .startup import *  # Imports the pre-processed command-line arguments
 from .program import Program
+
+GRAPHIC_FILE_EXTS = ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'tiff', 'tif', 'webp', 'svg']
 
 class Filter(Program):
     def __init__(self, *args, **kwargs):
@@ -23,8 +26,9 @@ class Filter(Program):
             else:
                 self.process(file)
 
+    @str2path_method
     def process(self, s):
-        print(s)
+        log.info(f"Processing {s=}...")
 
 if __name__ == "__main__":
     filter_program = Filter()

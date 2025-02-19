@@ -1,0 +1,46 @@
+Sabian Hat Closed
+Sabian Hat Pedal
+Sabian Hat Semi-Open
+Sabian Hat Open
+Sabian Hat Swish
+Sabian Hat Choke
+Zildjian Splash
+Sabian Crash
+Crash
+Zildjian Splash Choke
+Ride 2
+Sabian Crash Flink
+Paiste Ride
+Paiste Ride Flink
+Paiste Bell
+Snare1
+Snare Rock
+Pearl Snare
+Pearl Snare Rimshot
+Pearl Side Stick
+Tom Hi
+tomhi2
+tomhi3
+tomhi4
+Tom Mid
+Tom Low
+Pearl Tom 1
+Pearl Tom 2
+Pearl Tom Floor
+BassDrum
+Pearl Kick
+Cajon Thump
+Cajon Slap
+Maraca
+Hand Clap
+Finger Snaps
+Bongo Hi
+Bongo Lo
+Tambourine
+Cowbell
+Clave
+Woodblock Hi
+Woodblock Lo
+WaterglassHi
+
+
