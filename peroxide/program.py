@@ -10,4 +10,6 @@ class Program():
                        variables, and command line arguments.
         """
         log.info(f"Initializing {self.__class__.__name__} class...")
-        
+
+    def run(self):
+        pass

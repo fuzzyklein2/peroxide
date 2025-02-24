@@ -1,11 +1,11 @@
 from .startup import *
-from .filter import Filter
+from .peroxide import Peroxide
 
 if __name__ == '__main__':
     print(PROGRAM)
     log.info(f'Executing {PROGRAM} ...')
     
-    p = Filter()
-    p.process_files()
+    p = Peroxide()
+    p.run()
     
     log.info(f'Execution complete.')

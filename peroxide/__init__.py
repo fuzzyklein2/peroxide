@@ -177,3 +177,4 @@ log.info(f'{FOLLOW=}\n{RECURSIVE=}\n{PROCESS_ALL=}')
 
 CWD = Path.cwd()
 log.info(f'{CWD=}')
+log.info(f'{ARGS=}')

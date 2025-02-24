@@ -30,6 +30,9 @@ class Filter(Program):
     def process(self, s):
         log.info(f"Processing {s=}...")
 
+    def run(self):
+        self.process_files()
+
 if __name__ == "__main__":
     filter_program = Filter()
     filter_program.process_files()
