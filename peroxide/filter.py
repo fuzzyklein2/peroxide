@@ -1,5 +1,8 @@
 from pathlib import Path
 
+sys.path.insert(0, str(Path.home() / 'Documents/GitHub/files-1.0.0/files'))
+from files import File
+
 from .tools import *
 from .startup import *  # Imports the pre-processed command-line arguments
 from .program import Program
