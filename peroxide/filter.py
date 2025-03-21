@@ -1,4 +1,5 @@
 from pathlib import Path
+import sys
 
 sys.path.insert(0, str(Path.home() / 'Documents/GitHub/files-1.0.0/files'))
 from files import File
